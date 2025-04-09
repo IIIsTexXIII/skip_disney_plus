@@ -1,2 +1,2 @@
-# skip_disney_plus
- Auto skip intro and next episode.
+# AUTO SKIPPER DISNEY PLUS
+Salta las intros y pasa al siguiente episodio de forma automática.
